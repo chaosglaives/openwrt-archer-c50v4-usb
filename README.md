@@ -1,6 +1,6 @@
 # archer c50v4 usb enabled sysupgrade
 
-## hardware mod
+## hardware mod. ive connected this to a 4port usb hub and it works
 ![006e7917e42fc44167ba62cee5e410690cb7996f_2_1000x750.jpeg](006e7917e42fc44167ba62cee5e410690cb7996f_2_1000x750.jpeg)
 
 ## **luci is not enabled so you will need to install it, i did it after mounting usb to /overlay**
