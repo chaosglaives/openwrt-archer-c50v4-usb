@@ -32,7 +32,7 @@ check that usb is recognized
 [   92.858827] sd 2:0:0:0: [sda] Attached SCSI removable disk
 ```
 
-find partition and UUID of usb. take note of both. if you are using 2partitions like me for whatever reason you can tell by the **TYPE="ext4"
+find partition and UUID of usb. take note of both. if you are using 2partitions like me for whatever reason you can tell by looking for the drive with TYPE="ext4"
 ```
 # block info
 /dev/mtdblock4: UUID="0c20cf21-3f5a7273-9a6ad023-80703edd" VERSION="4.0" MOUNT="/rom" TYPE="squashfs"
