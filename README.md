@@ -46,7 +46,7 @@ find partition and UUID of usb. take note of both. if you are using 2partitions 
 
 make filesystem(i didnt want to run this again so this code is from elsewhere)
 ```
-# mkfs.ext4 /dev/sda1
+# mkfs.ext4 /dev/sda2
 mke2fs 1.43.3 (04-Sep-2016)
 Creating filesystem with 249088 4k blocks and 62336 inodes
 Filesystem UUID: 42109b6a-759a-48ba-a7b9-1508d0973131
