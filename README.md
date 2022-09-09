@@ -19,7 +19,7 @@ install required packages
 # opkg install block-mount kmod-fs-ext4 kmod-usb-storage e2fsprogs kmod-usb-ohci kmod-usb-uhci
 ```
 
-check that usb is recognized
+check that usb is recognized, should look similar to this
 ```
 # dmesg | tail
 [   91.701565] usb-storage 1-1.1:1.0: USB Mass Storage device detected
