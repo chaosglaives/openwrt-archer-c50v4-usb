@@ -4,7 +4,7 @@
 ## **luci is not enabled so you will need to install it, i did it after mounting usb to /overlay**
 
 
-## **make sure usb has a ext4 partition. i have both a vfat(sda1) and ext4(sda2) partition**
+## **make sure usb has a ext4 partition. i have both a vfat(sda1) and ext4(sda2) partition(you dont need the vfat partition, my other usb drive broke so im using a temporary one with files on it for now)**
 
 ### **install drivers and mount usb to /overlay**
 
