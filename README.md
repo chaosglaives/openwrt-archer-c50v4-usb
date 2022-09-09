@@ -1,4 +1,4 @@
-# archer c50v4 usb enabled sysupgrade
+# archer c50v4 usb enabled 22.03 sysupgrade
 
 ## hardware mod. ive connected this to a 4port usb hub and it works
 ![006e7917e42fc44167ba62cee5e410690cb7996f_2_1000x750.jpeg](006e7917e42fc44167ba62cee5e410690cb7996f_2_1000x750.jpeg)
